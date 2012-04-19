@@ -2,13 +2,13 @@
 <extension id="your_extension_path" xmlns="http://symphony-cms.com/schemas/extension/1.0">
 	<name>Backend Language Switcher</name>
 	<description>Add the description to your extension here.</description>
-	<repo type="github">https://github.com/username/your_extension_path</repo>
+	<repo type="github">git://github.com/jonmifsud/backend-language-switcher.git</repo>
 	<authors>
 		<author>
-			<name github="username" symphony="username">Full name</name>
+			<name github="johnjcamilleri" symphony="johnjcamilleri">John J. Camilleri</name>
 		</author>
 	</authors>
 	<releases>
-		<release version="1.0.0" date="YYYY-MM-DD"/>
+		<release version="1.0.0" date="2010-10-22"/>
 	</releases>
 </extension>
